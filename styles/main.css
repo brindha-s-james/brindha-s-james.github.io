@@ -1,10 +1,12 @@
 @media (max-width: 800px)  {
 
 body {
-  color:rgb(3, 14, 10); background-image:url(../Images/calmness.png);
+  color:rgb(3, 14, 10); 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }}
+.background {background-image:url(../Images/calmness.png);background-repeat: no-repeat; background-size: cover; height: 100%;}
+.smaller-image {width:400px;}
 .bold {background-color:grey; padding:3px;}
 .solid {font-weight: bold; padding:3px}
 
