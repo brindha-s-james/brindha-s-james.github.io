@@ -11,9 +11,9 @@ body {
 .solid {font-weight: bold; padding:3px}
 
 .div-1 {background-color: rgb(216, 216, 169); text-align: center;
-   padding: 20px 20px 20px 20px; border-width: 5px 5px 5px 5px; border-color: rgb(181, 13, 131); border-style: solid;
+   padding: 20px 20px 20px 20px; border-width: 5px 5px 5px 5px; border-color: rgb(181, 13, 131); border-style: solid;  margin: 50px 70px 5px 20px;
     }
-.div2n3{background-color: rgba(216, 216, 169);padding: 5px 10px 10px 20px;margin-top: 50px;}
+.div2n3{background-color: rgba(216, 216, 169);padding: 5px 10px 10px 20px; margin: 50px 70px 5px 20px;}
 
 #fontsize {font-size:40px;}
      
