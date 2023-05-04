@@ -3,25 +3,57 @@
 body {
   color:rgb(3, 14, 10); 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+}
+.background {background-image:url(../Images/calmness.png);
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  height: 100%;
+}
+.smaller-image {
+  width:400px;
+}
+.bold {
+  background-color:grey; 
+  padding:3px;
+}
+.solid {
+  font-weight: bold; 
+  padding:3px
+}
 
-}}
-.background {background-image:url(../Images/calmness.png);background-repeat: no-repeat; background-size: cover; height: 100%;}
-.smaller-image {width:400px;}
-.bold {background-color:grey; padding:3px;}
-.solid {font-weight: bold; padding:3px}
-
-.div-1 {background-color: rgb(216, 216, 169); text-align: center;
-   padding: 20px 20px 20px 20px; border-width: 5px 5px 5px 5px; border-color: rgb(181, 13, 131); border-style: solid;  margin: 50px 70px 5px 20px;
-    }
-.div2n3{background-color: rgba(216, 216, 169);padding: 5px 10px 10px 20px; margin: 50px 70px 5px 20px;}
-
-#fontsize {font-size:40px;}
-     
-#div4 {padding: 5px 10px 10px 20px; 
-  background-color: rgba(216, 216, 169);
-  margin-top: 50px; 
+.div-1 {
+  background-color: rgb(216, 216, 169); 
+  text-align: center;
+   padding: 20px 20px 20px 20px; 
+   border-width: 5px 5px 5px 5px; 
+   border-color: rgb(181, 13, 131); 
+   border-style: solid;  
+   border-radius: 10px;
+   margin: 50px 70px 5px 20px;
   }
+.div2n3 {
+  background-color: rgba(216, 216, 169);
+  border-radius: 10px;
+  padding: 5px 10px 10px 20px; 
+  margin: 50px 70px 5px 20px;
+}
 
-  #thought {font-style: italic; font-color:rgb(173, 171, 171) ;}
-  .aha {font-weight:bold;}
+#fontsize {
+  font-size:40px;
+}
+     
+#div4 {
+  background-color: rgba(216, 216, 169);
+  border-radius: 10px;
+  margin-top: 50px; 
+  padding: 5px 10px 10px 20px; 
+}
+
+#thought {
+  font-style: italic; font-color:rgb(173, 171,   171);
+}
+.aha {
+   font-weight:bold;
+}
        
